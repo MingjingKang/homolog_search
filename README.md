@@ -31,4 +31,7 @@ Output file include(tab split): A_pro_id scf/chr start end strand A_gene_id A_ge
 
 # visualization using Circos
 
-![alt text](Visualization of results with Circos.svg)
+![homolog_search](Visualization_of_results_with_Circos.svg)
+
+
+
